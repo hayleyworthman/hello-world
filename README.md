@@ -1,5 +1,5 @@
 <!DOCTYPE html, readme.md, GitHub by Hayley Worthman>
-<link rel="stylesheet" type="text/css" href="hello-world-style.css" />
+ <link rel="stylesheet" type = "text/css" href="hello-world-style.css">
 <html>
 <head>
 <h1>Greetings # hello-world.</h1> 
