@@ -4,15 +4,11 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Avenir">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Wonderbar">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oi">
 <style>
-h1,h2,h3,h4,h5,h6 {font-family: "Wonderbar"}
-body {font-family: "Avenir"}
+h1,h2,h3,h4,h5,h6 {font-family: "Oi"; color: #000000;}
+body, p {font-family: "Avenir"; color: orange; font-size: 14px;}
+background {color: dimgray;}
 </style>
-<body class="w3-light-grey">
-
-
-
-</script>
 </body>
 </html>
